@@ -1,4 +1,4 @@
-# Node.js and NPM Example
+Chapter 4 sample app - versioning, build, and test workflow
 
 This folder contains:
 
